@@ -1,0 +1,23 @@
+  {
+    "navigation": {
+      "home": "Acceuil",
+      "about": "A propos",
+      "contact": "Contact",
+      "dashboard": "Tableau de bord"
+    },
+    "page": {
+      "home": {
+        "title": "Bienvenue sur ce Next.js Starter",
+        "description": "Un modèle de départ moderne, réactif et accessible pour les projets Next.js."
+      },
+      "about": {
+        "title": "À propos de nous",
+        "description": "Ceci est la page à propos"
+      }
+
+    },
+    "footer": {
+      "title": "",
+      "description": ""
+    }
+  }

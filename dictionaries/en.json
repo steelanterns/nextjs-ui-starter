@@ -1,0 +1,23 @@
+{
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact",
+      "dashboard": "Dashboard"
+    },
+    "page": {
+      "home": {
+        "title": "Welcome to this Next.js Starter",
+        "description": "A modern, responsive, and accessible starter template for Next.js projects."
+      },
+      "about": {
+        "title": "About Us",
+        "description": "This is the about page"
+      }
+
+    },
+    "footer": {
+      "title": "",
+      "description": ""
+    }
+  }

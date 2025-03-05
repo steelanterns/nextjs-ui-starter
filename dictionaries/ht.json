@@ -1,0 +1,25 @@
+{
+    "navigation": {
+      "home": "Akèy",
+      "about": "Sou nou",
+      "contact": "Kontak",
+      "dashboard": "Espas ou"
+    },
+    "page": {
+      "home": {
+        "title": "Byenvini sou Next.js Starter",
+        "description": "Yon modèl demaraj modèn, reyaktif, epi aksesib pou pwojè Next.js."
+      },
+      "about": {
+        "title": "Sou nou",
+        "description": ""
+      }
+
+    },
+    "footer": {
+      "title": "",
+      "description": ""
+    }
+  }
+
+  
