@@ -1,4 +1,4 @@
-# React + Vite
+# Nextjs UI Starter
 
 This starter provides a minimal setup.
 This starter includes internationalization, chained middleware, Route Groups, internationalization management via sub-paths (/fr, /en, etc.), and a modular architecture optimized for performance and scalability. The aim is to speed up the start-up of a project, while giving developers as much freedom as possible to adapt it to their needs.
@@ -6,14 +6,13 @@ This starter includes internationalization, chained middleware, Route Groups, in
 ## Features
 
 . 📊 Dashboard (pull from [shadcn/ui](https://ui.shadcn.com/docs) )
-
 . 🔄 Global middleware to protect routes requiring a connection
-
 . i18n
+. Themes
 
 ## Tech Stack
 
-. 🎨 UI Library : tailwindcss, [radix/ui](https://www.radix-ui.com/themes/docs/overview/getting-started)
+. 🎨 UI Library : tailwindcss, [radix/ui](https://www.radix-ui.com/themes/docs/overview/getting-started), [shadcn/ui](https://ui.shadcn.com/docs)
 
 ## Getting Started
 
